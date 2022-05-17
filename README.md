@@ -15,7 +15,7 @@
 <tr>
 <td>Python</td>
 <td>Advanced</td>
-<td>Webscraping, Webdevelopment, General programming, AWS (boto3), Data Science</td>
+<td>Webscraping, Webdevelopment, Fast-API, General programming, AWS (boto3), Data Science</td>
 </tr>
 <tr>
 <td>Java</td>
