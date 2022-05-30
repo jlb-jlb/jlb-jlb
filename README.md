@@ -5,7 +5,7 @@
 - 📫 How to reach me joscha.bisping@outlook.de
 
 <div>
-<p>My Skills:</p>
+
 <table>
 <tr>
 <th>Skill</th>
@@ -32,7 +32,7 @@
 <td>CSS</td><td>Basics</td><td>Mainly Copy Pasta to enhance my HTML sites</td>
 </tr>
 <tr>
-<td>Julia</td><td>Intermediate</td><td>For University purposes like Optimization etc.</td>
+<td>Julia</td><td>Basics</td><td>For University purposes like Optimization etc.</td>
 </tr>
 <tr>
 <td>JS</td><td>Basics</td><td>For Webdevelopment, personal React projects</td>
