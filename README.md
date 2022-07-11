@@ -44,6 +44,9 @@
 <td>Databases</td><td>Basics</td><td>Postgresql, MongoDB, AWS DynamoDB</td>
 </tr>
 <tr>
+<td>SQL</td><td>Basics</td><td>Mainly through SQLAlchemy for python</td>
+</tr>
+<tr>
 <td>AWS</td><td>Intermediate</td><td>Lambdas & Layers, boto3, EC2, DynamoDB, SES, SQS, more</td>
 </tr>
 
