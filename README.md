@@ -29,7 +29,7 @@
 <td>HTML</td><td></td><td>HTML Sites for personal projects</td>
 </tr>
 <tr>
-<td>CSS</td><td>Basics</td><td>Mainly Bootstrap/td>
+<td>CSS</td><td>Basics</td><td>Mainly Bootstrap</td>
 </tr>
 <tr>
 <td>Julia</td><td>Basics</td><td>For University purposes like Optimization etc.</td>
