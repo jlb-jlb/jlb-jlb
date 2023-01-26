@@ -26,10 +26,10 @@
 <td>C</td><td>Intermediate</td><td>Programming for Uni, OS</td>
 </tr>
 <tr>
-<td>HTML</td><td>Basics</td><td>Basic HTML Sites for personal projects</td>
+<td>HTML</td><td></td><td>HTML Sites for personal projects</td>
 </tr>
 <tr>
-<td>CSS</td><td>Basics</td><td>Mainly Copy Pasta to enhance my HTML sites</td>
+<td>CSS</td><td>Basics</td><td>Mainly Bootstrap/td>
 </tr>
 <tr>
 <td>Julia</td><td>Basics</td><td>For University purposes like Optimization etc.</td>
