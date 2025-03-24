@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jlb-jlb
 - 👀 I’m interested in ML, Data Engineering and Cloud Services.
-- 🌱 I’m currently learning ML
+- 🌱 I’m currently learning Adversarial Machine Learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me joscha.bisping@outlook.de
 
