@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jlb-jlb
-- 👀 I’m interested in ML, Webscraping, DataScience, Webtechnologies, Cloud Services
-- 🌱 I’m currently learning Webscraping, Python Django, and more
+- 👀 I’m interested in ML, Data Engineering and Cloud Services.
+- 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me joscha.bisping@outlook.de
 
