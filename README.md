@@ -5,7 +5,7 @@
 - 📫 How to reach me joscha.bisping@outlook.de
 
 <div>
-
+<!---
 <table>
 <tr>
 <th>Skill</th>
@@ -51,6 +51,7 @@
 </tr>
 
 </table>
+--->
 </div>
 
 <!---
