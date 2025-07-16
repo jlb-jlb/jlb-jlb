@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @jlb-jlb
+- 👋 Hi, I’m Joscha Bisping
 - 👀 I’m interested in ML, Data Engineering and Cloud Services.
 - 🌱 I’m currently learning Adversarial Machine Learning
 - 💞️ I’m looking to collaborate on ...
