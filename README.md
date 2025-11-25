@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Joscha Bisping
 - 👀 I’m interested in ML, Data Engineering and Cloud Services.
-- 🌱 I’m currently learning Adversarial Machine Learning
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ML & Security
 - 📫 How to reach me joschabisping.reference259@passmail.net
 
 <div>
