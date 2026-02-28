@@ -5,6 +5,7 @@
 - ML + Security
 - LLM-enhanced workflows
 - Graph-based learning and representation quality
+- Ransomware detection using GNNs and LLMs
   
 ## Links
 - Website: [joschabisping.de](https://joschabisping.de)
