@@ -5,7 +5,7 @@
 - ML + Security
 - LLM-enhanced workflows
 - Graph-based learning and representation quality
-- 
+  
 ## Links
 - Website: [joschabisping.de](https://joschabisping.de)
 - Contact: joschabisping.reference259@passmail.net
