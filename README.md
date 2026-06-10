@@ -2,6 +2,7 @@
 
 
 ##  Current Interests
+- Robot Learning and 3D Data
 - ML + Security
 - LLM-enhanced workflows
 - Graph-based learning and representation quality
